@@ -1,5 +1,7 @@
 def add(a, b):
     return a + b
+def subtract(a, b): 
+    return a - b
 
 # Prompt the user for input
 # Note: input() returns text, so we convert the values to floats for math
